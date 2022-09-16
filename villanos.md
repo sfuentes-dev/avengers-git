@@ -2,3 +2,4 @@
 
 - Thanos
 - Red Skull
+- Venom
