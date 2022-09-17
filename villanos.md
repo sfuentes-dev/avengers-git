@@ -2,4 +2,4 @@
 
 - Thanos
 - Red Skull
-- Venom
+- Capitan America
